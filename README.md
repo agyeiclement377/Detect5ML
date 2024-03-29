@@ -22,7 +22,7 @@ Detect5ML employs a multi-step process to predict diseases:
 [] Result Presentation: Detect5ML presents the predictions in a clear and understandable format, along with any necessary explanations or recommendations.
 
 # Get Started
-To run Healthify locally and explore its functionalities, follow these steps:
+To run Detect5ML locally and explore its functionalities, follow these steps:
 
 [] Clone the repository to your local machine.
 [] Navigate to the project directory and run the Django development server.
